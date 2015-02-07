@@ -1,3 +1,7 @@
 var populationp;
 var populationq;
 var ncases;
+var rapecases;
+var hatecrimecases;
+var domesticviolencecrimecases;
+var intimatepartnercrimecases;
